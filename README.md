@@ -92,7 +92,7 @@ meaningful-work-clustering/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/meaningful-work-clustering.git
+git clone https://github.com/AngelaLiang77/meaningful-work-clustering.git
 cd meaningful-work-clustering
 
 # Create virtual environment (recommended)
